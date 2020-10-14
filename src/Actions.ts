@@ -1,0 +1,5 @@
+export enum ACTION { 
+    ADD_CHILD = 'ADD_CHILD', 
+    SET_SPOUSE = 'SET_SPOUSE',
+    GET_RELATIONSHIP = 'GET_RELATIONSHIP' 
+}

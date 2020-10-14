@@ -1,0 +1,6 @@
+GET_RELATIONSHIP Satvy Sister-In-Law
+GET_RELATIONSHIP Ish Son
+GET_RELATIONSHIP Misha Daughter
+ADD_CHILD Chitra Aria Female
+GET_RELATIONSHIP Aria Siblings 
+GET_RELATIONSHIP Lavnya Maternal-Aunt 
